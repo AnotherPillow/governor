@@ -16,7 +16,6 @@ ASSETS_PATH = "./assets"
 FONTS_PATH = "./fonts"
 TMP_PATH = "./private/tmp"
 CMD_PREFIX = cfg['command_prefix']
-NEXUS_API_KEY = cfg['nexus_key']
 
 ADMIN_ACCESS = cfg['roles']['admin_access']
 MODDER_ROLE = cfg['roles']['modder']
