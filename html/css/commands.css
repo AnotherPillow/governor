@@ -46,6 +46,6 @@ p {
 
 @media only screen and (max-width: 1200px) {
     details[open] {
-        word-break: break-break-all;
+        word-break: break-all;
     }
 }
